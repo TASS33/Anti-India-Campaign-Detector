@@ -1,0 +1,35 @@
+# Chrome profile files
+scraper_profile/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Node.js modules - specific to your structure
+webserver/backend/node_modules/
+webserver/frontend/node_modules/
+
+# Build directories
+webserver/frontend/build/
+webserver/frontend/.next/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+ehthumbs.db
+Desktop.ini
